@@ -1,0 +1,31 @@
+{
+  "base_url": "http://www.mpdbd.com.au/",
+  "page_count": 24,
+  "pages": [
+    "http://www.mpdbd.com.au/",
+    "http://www.mpdbd.com.au/projects",
+    "http://www.mpdbd.com.au/projects/residential",
+    "http://www.mpdbd.com.au/projects/commercial",
+    "http://www.mpdbd.com.au/profile",
+    "http://www.mpdbd.com.au/services",
+    "http://www.mpdbd.com.au/contact",
+    "http://www.mpdbd.com.au/project/20-Lemon-Rd",
+    "http://www.mpdbd.com.au/project/52-Olive-Rd",
+    "http://www.mpdbd.com.au/project/96-Leed-Rd",
+    "http://www.mpdbd.com.au/project/Chadstone",
+    "http://www.mpdbd.com.au/project/Eastland-Shopping-Center",
+    "http://www.mpdbd.com.au/project/Glen-shopping-center-food-courts",
+    "http://www.mpdbd.com.au/project/Lavarack-barracks",
+    "http://www.mpdbd.com.au/project/Masonic-Care",
+    "http://www.mpdbd.com.au/project/Mckinnon-Hill-Medical-Center",
+    "http://www.mpdbd.com.au/project/Monash-university",
+    "http://www.mpdbd.com.au/project/Poly-group",
+    "http://www.mpdbd.com.au/project/Raaf-Base",
+    "http://www.mpdbd.com.au/project/Rialto",
+    "http://www.mpdbd.com.au/project/Stocklend-Shopping-Center",
+    "http://www.mpdbd.com.au/project/adina-apartment-hotel",
+    "http://www.mpdbd.com.au/project/myer",
+    "http://www.mpdbd.com.au/project/paddington-apartment"
+  ],
+  "skipped": []
+}
