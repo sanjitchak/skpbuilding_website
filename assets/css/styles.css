@@ -468,13 +468,13 @@ textarea {
 
 .project-tile__body {
   display: grid;
-  gap: 8px;
-  padding: 16px;
+  gap: 12px;
+  padding: 22px;
 }
 
 .project-tile__body span {
   color: var(--bronze-2);
-  font-size: 0.73rem;
+  font-size: clamp(0.78rem, 0.72vw, 0.9rem);
   font-weight: 800;
   text-transform: uppercase;
   letter-spacing: 0.12em;
@@ -483,7 +483,7 @@ textarea {
 .project-tile__body h3 {
   margin: 0;
   color: var(--ink);
-  font-size: 1rem;
+  font-size: clamp(1.12rem, 1.05vw, 1.34rem);
   line-height: 1.15;
   letter-spacing: -0.02em;
 }
@@ -491,7 +491,8 @@ textarea {
 .project-tile__body p {
   margin: 0;
   color: rgba(48, 50, 52, 0.72);
-  font-size: 0.9rem;
+  font-size: clamp(1rem, 0.92vw, 1.12rem);
+  line-height: 1.55;
 }
 
 .method {
